@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
 
 "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<plist version="1.1">
 <dict>
    <key>items</key>
    <array>
@@ -43,7 +43,7 @@
                <key>bundle-identifier</key>
                <string>com.iii360.Box-Assistant</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
