@@ -15,7 +15,7 @@
                    <key>url</key>
                    
 
-<string>http://192.168.20.223:8090/Box.Assistant_Test.ipa</string>
+<string>http://192.168.20.223:8080/Box.Assistant_Test.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
